@@ -1,0 +1,6 @@
+@Microservices.Services.CupomAPI_HostAddress = http://localhost:5253
+
+GET {{Microservices.Services.CupomAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
